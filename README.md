@@ -16,4 +16,4 @@
 
 此外，用户行为分析也成为站点升级策略的一环。通过行为数据监测，比如点击热图、观看路径、播放时长等，平台可优化视频排序、页面布局、推荐算法，从而提升用户停留时间与满意度，最终形成良性循环。
 
-<span style="display:none;">[Canonical link]( ）</span>
+<span style="display:none;">[Canonical link]( https://github.com/bob20250710/ribenx4205 ）</span>
